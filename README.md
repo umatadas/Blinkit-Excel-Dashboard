@@ -59,8 +59,7 @@ The dataset contains information related to:
 ##### **📚 Learning Reference**
 
 This project was created by referring to the following tutorial:
-
-https://youtu.be/klZj\_282ApY
+https://youtu.be/klZj_282ApY?si=KIyyIqjod2xqjZ7Y
 
 
 
@@ -69,6 +68,7 @@ https://youtu.be/klZj\_282ApY
 **Uma Anil Tadas**
 
 Aspiring Data Analyst | Excel | SQL | Power BI
+
 
 
 
