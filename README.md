@@ -43,7 +43,7 @@ The dataset contains information related to:
 
 ##### **📸 Dashboard Preview**
 
-![Blinkit Dashboard](Dashboard Images/blinkit_dashboard.jpeg)
+![Blinkit Dashboard](Dashboard%20Images/blinkit_dashboard.jpeg)
 
 
 
@@ -68,6 +68,7 @@ https://youtu.be/klZj_282ApY?si=KIyyIqjod2xqjZ7Y
 **Uma Anil Tadas**
 
 Aspiring Data Analyst | Excel | SQL | Power BI
+
 
 
 
